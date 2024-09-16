@@ -1,0 +1,29 @@
+.moeda{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.total{
+  width: 350px;
+  margin-left: 150px;
+  border: 1px solid #1F2151;
+  padding: 20px;
+  background-color: #1F2151;
+  border-radius: 5px;
+}
+
+input{
+
+}
+
+label{
+  color: #B2B8DE;
+}
+
+#resposta{
+  color: #B2B8DE;
+  margin-top: 20px;
+  font-size: 20px;
+  border: solid;
+  border-radius: 5px;
+}
